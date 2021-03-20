@@ -4,8 +4,8 @@ using namespace std;
 struct zadanie
 {
 	int czas;				//czas trwania
-	int waga;				// ważność zadania
-	int deadline;			// do kiedy ma się wykonać
+	int waga;				//ważność zadania
+	int deadline;			//do kiedy ma się wykonać
 };
 int main()
 {
